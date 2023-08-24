@@ -24,20 +24,14 @@
 <table width="100" align='center' >
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-    </td>
-   
-    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" >
     </td>
       
-</tr>
-<tr>
     <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="110">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
