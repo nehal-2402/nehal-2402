@@ -5,7 +5,9 @@
 - 👀 I’m interested in ... Coding Music and Travel.
 - 🌱 I’m currently purseing ... Bachelors of Engineering in Information technology.
 - 💞️ I’m looking to collaborate on ... Web Development and Machine Learning
-- 📫 How to reach me ...  www.linkedin.com/in/nehal](https://www.linkedin.com/in/nehal-pawar-570976262/
+- 📫 How to reach me ...  www.linkedin.com/in/nehalpawar2402
+
+
 </div>
 
 <br>
